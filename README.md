@@ -13,4 +13,6 @@ Important points:
 
 ^All the details attribute can be written into .txt, .csv, .json file and also could be read from the same with help of IO Streams.
 
-All the usercases worked properly and performing all operation this "AddressBookSystem_" represents one form of all usercases which has been successfully pushed into master branch.
+All the usercases worked properly and performed all operations.
+
+This "AddressBookSystem_" represents one form of all usercases which has been successfully pushed into master branch.
